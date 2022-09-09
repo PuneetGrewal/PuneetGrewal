@@ -1,4 +1,4 @@
-## <div align="center">Welcome to my profile! <img src="https://github.com/alexwholland/alexwholland/blob/master/Nosey.gif" height="35px"></div>
+## <div align="center">Welcome to my profile! <img src="https://github.com/PuneetGrewal/PuneetGrewal/blob/master/f52eae4b96a0d54.gif" height="35px"></div>
 
 <p align="center">
   <a href="https://github.com/PuneetGrewal">
